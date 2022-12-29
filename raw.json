@@ -1,0 +1,58 @@
+{
+	"status": "ok",
+	"totalResults": 38,
+	"articles": [
+		{
+			"source": {
+				"id": null,
+				"name": "NDTV News"
+			},
+			"author": null,
+			"title": "\"Super Powerful Bombs\" Hit Ukraine's Port City Amid New Rescue Attempt - NDTV",
+			"description": "Two \"super powerful bombs\" rocked Mariupol on Tuesday as Ukrainian authorities made a fresh attempt at rescuing civilians from the besieged port city which has suffered relentless shelling since Russia's invasion began almost a month ago.",
+			"url": "https://www.ndtv.com/world-news/super-powerful-bombs-rock-ukraines-port-city-amid-new-rescue-attempt-2837144",
+			"urlToImage": "https://c.ndtvimg.com/2022-03/3vgt0ni8_mariupol-afp_625x300_22_March_22.jpg",
+			"publishedAt": "2022-03-22T16:27:00Z",
+			"content": "Two \"powerful bombs\" slammed into the city even as rescue efforts were ongoing (FILE)\r\nKyiv: Two \"super powerful bombs\" rocked Mariupol on Tuesday as Ukrainian authorities made a fresh attempt at res… [+6781 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Moneycontrol"
+			},
+			"author": null,
+			"title": "Russia Ukraine News LIVE Updates | PM Modi, Boris Johnson discuss Ukraine situation - Moneycontrol",
+			"description": "Russia Ukraine News LIVE Updates | Vladimir Putin's \"back is against the wall and now he's talking about new false flags he's setting up including, asserting that we in America have biological as well as chemical weapons in Europe, simply not true,\" Biden sai…",
+			"url": "https://www.moneycontrol.com/news/world/russia-ukraine-news-live-updates-joe-biden-says-vladimir-putin-is-weighing-use-of-chemical-weapons-in-ukraine-8258071.html",
+			"urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/03/pjimage-2022-03-12T164205.722-770x433.jpg",
+			"publishedAt": "2022-03-22T16:13:37Z",
+			"content": "March 22, 2022 / 07:32 PM IST\r\nRussia Ukraine News LIVE Updates | Polish priest prays for peace as he takes in 24 Ukrainian refugees\r\nA Polish priest who has taken 24 Ukrainian refugees into his home… [+946 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Dtnext.in"
+			},
+			"author": "100010509524078",
+			"title": "NASA confirms existence of over 5,000 exoplanets - DTNEXT",
+			"description": "The planetary odometer turned on March 21, with the latest batch of 65 exoplanets - planets outside our immediate solar family - added to the NASA Exoplanet Archive.",
+			"url": "http://www.dtnext.in/Lifestyle/LifeStyleTopNews/2022/03/22212646/1359345/NASA-confirms-existence-of-over-5000-exoplanets.vpf",
+			"urlToImage": "https://img.dtnext.in/Articles/2022/Mar/202203222126450313_NASA-confirms-existence-of-over-5000-exoplanets_SECVPF.gif",
+			"publishedAt": "2022-03-22T16:11:36Z",
+			"content": "The planetary odometer turned on March 21, with the latest batch of 65 exoplanets - planets outside our immediate solar family - added to the NASA Exoplanet Archive.\r\nWashington:US space agency NASA … [+2051 chars]"
+		},
+		{
+			"source": {
+				"id": "the-times-of-india",
+				"name": "The Times of India"
+			},
+			"author": "TIMESOFINDIA.COM",
+			"title": "Bengal on boil: Mamata vs Bengal guv after 8 burnt alive in Birbhum; key points - Times of India",
+			"description": "India News: Following the violence in Birbhum district in West Bengal on Tuesday in which eight persons were killed, a political storm was triggered in the state.",
+			"url": "https://timesofindia.indiatimes.com/india/bengal-on-boil-8-burnt-alive-in-bengals-birbhum-mha-seeks-report-from-mamata-govt-top-developments/articleshow/90380946.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-90381330,width-1070,height-580,imgsize-316144,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+			"publishedAt": "2022-03-22T15:32:00Z",
+			"content": "MHA seeks report from West Bengal govt on killing of 8 peopleNEW DELHI: The union home ministry on Tuesday sought a report from the West Bengal government after eight people were found burnt to death… [+158 chars]"
+		}
+	]
+}
